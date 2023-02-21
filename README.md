@@ -1,5 +1,6 @@
 # Website uploaded on netlify
-calculator-abir-dey.netlify.app
+
+https://calculator-abir.netlify.app
 
 # Getting Started with Create React App
 
